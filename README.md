@@ -19,5 +19,14 @@ Start with the door handle. Open the door handle and with a skinny flat-head scr
 Next, lift the window door controls. You may need a flat-head against the sides. There is also some space you can wedge at the bottom but it has poor leverage.
 ![Lift window controls](https://github.com/deadsupra/ScioniAaudiospeakerupgrade/blob/master/window_control_removal3.jpg)
 
-This is what it looks like removed:
+Remove the window control cables (2). This is what it looks like removed:
 ![Removed window controls](https://github.com/deadsupra/ScioniAaudiospeakerupgrade/blob/master/window_control_removed4.jpg)
+
+Remove the black flat thingy on the side of the door:
+*Image will be uploaded soon*
+
+Now you can pop open the door panel. You should rotate it a bit and let it rest on something while you work on your speaker upgrade. I kept the door handle cable and wiring attached because I am too lazy to remove entirely. If the cable disconnects, you can simply reattach it.
+*Image will be uploaded soon*
+
+## Speaker Upgrade
+Remove the speaker connector. Note: I didn't research the speaker polarity. I played it by earch since I 
