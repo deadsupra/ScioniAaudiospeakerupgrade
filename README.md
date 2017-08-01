@@ -29,5 +29,12 @@ Now you can pop open the door panel. You should rotate it a bit and let it rest 
 *Image will be uploaded soon*
 
 ## Speaker Upgrade
-Remove the speaker connector. Note: I didn't research the speaker polarity wiring. I played it by ear. Don't do what I do.
+Remove the speaker connector. **Note**: I didn't research the speaker polarity wiring. I played it by ear. Don't do what I do.
+
 It is probably best to just rip out the old speaker and use the original brackets. Crutchfield usually sends you brackets but they require a drill bit to fit. I just used 3-4 of the black screws onto the original bracket.
+
+Put the door panel back on (punch it back into place if needed).
+
+Test your system. If you hear both speakers, so far so good. If you hear both but one side sounds better like the sound waves are pushing against your ear but the other side sounds like it is lacking the same pressure, you most likely have bad wiring polarity.
+
+You can use a simple phone app to generate a sound wave and analyze it. Just be mindful of background noise. For this reason, it is best to test either the front pair or back pair separately.
