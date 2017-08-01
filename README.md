@@ -29,4 +29,5 @@ Now you can pop open the door panel. You should rotate it a bit and let it rest 
 *Image will be uploaded soon*
 
 ## Speaker Upgrade
-Remove the speaker connector. Note: I didn't research the speaker polarity. I played it by earch since I 
+Remove the speaker connector. Note: I didn't research the speaker polarity wiring. I played it by ear. Don't do what I do.
+It is probably best to just rip out the old speaker and use the original brackets. Crutchfield usually sends you brackets but they require a drill bit to fit. I just used 3-4 of the black screws onto the original bracket.
