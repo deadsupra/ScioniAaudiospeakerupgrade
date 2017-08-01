@@ -15,4 +15,9 @@ There are two philips-head screws that hold the door panel.
 2. Window control arm
 
 Start with the door handle. Open the door handle and with a skinny flat-head screw driver, remove the plastic cover. 
-![Open door handle cover](https://github.com/deadsupra/ScioniAaudiospeakerupgrade/blob/master/door_handle_cover2.jpg)
+![Open door handle cover](https://github.com/deadsupra/ScioniAaudiospeakerupgrade/blob/master/door_handle_cover3.jpg)
+Next, lift the window door controls. You may need a flat-head against the sides. There is also some space you can wedge at the bottom but it has poor leverage.
+![Lift window controls](https://github.com/deadsupra/ScioniAaudiospeakerupgrade/blob/master/window_control_removal3.jpg)
+
+This is what it looks like removed:
+![Removed window controls](https://github.com/deadsupra/ScioniAaudiospeakerupgrade/blob/master/window_control_removed4.jpg)
